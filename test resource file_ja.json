@@ -1,9 +1,0 @@
-{
-  "test resource file.json.address": "à_One Montgomery Street, Suite 2400, San Francisco, CA 94104_海",
-  "test resource file.json.oops": "à_Oops, something went wrong..._海",
-  "test resource file.json.applyFor": "à_Apply for %{accountName}_海",
-  "test resource file.json.letsConfirm": "à_Let's confirm your identity for %{accountName}_海",
-  "test resource file.json.checkrLogo": "à_Checkr logo_海",
-  "test resource file.json.companyLogo": "à_Company logo_海",
-  "test resource file.json.loading": "ロード中..."
-}
