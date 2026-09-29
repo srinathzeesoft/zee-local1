@@ -1,9 +1,0 @@
-{
-  "test resource file.json.address": ":One Montgomery Street, Suite 2400, San Francisco, CA 94104:",
-  "test resource file.json.loading": ":Loading...:",
-  "test resource file.json.oops": ":Oops, something went wrong...:",
-  "test resource file.json.applyFor": ":Apply for %{accountName}:",
-  "test resource file.json.letsConfirm": ":Let's confirm your identity for %{accountName}:",
-  "test resource file.json.checkrLogo": ":Checkr logo:",
-  "test resource file.json.companyLogo": ":Company logo:"
-}
